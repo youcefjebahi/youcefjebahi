@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**youcefjebahi/youcefjebahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Youcef Jebahi, a passionate software engineering student who loves exploring new technologies and coding challenges.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I'm open to collaboration on exciting projects and actively seeking an end-of-studies internship opportunity.
+
+📫 How to reach me:
+
+LinkedIn: https://www.linkedin.com/in/youcefjebahi
+
+Email: youcef.jebahi@esprit.tn
+
+Let's connect! Feel free to reach out to me through any of the above channels.
