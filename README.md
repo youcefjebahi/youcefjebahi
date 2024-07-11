@@ -1,13 +1,9 @@
-Hi there 👋
+👋 Hi there, I'm Youcef Jebahi, a passionate software engineer open to exciting collaborations.
 
-I'm Youcef Jebahi, a passionate software engineering student who loves exploring new technologies and coding challenges.
+👯 Currently, I'm immersed in personal projects and handling freelance client work.
 
-👯 I'm open to collaboration on exciting projects and actively seeking an end-of-studies internship opportunity.
+📫 You can reach out to me through:
 
-📫 How to reach me:
-
-LinkedIn: https://www.linkedin.com/in/youcefjebahi
-
-Email: youcef.jebahi@esprit.tn
-
-Let's connect! Feel free to reach out to me through any of the above channels.
+LinkedIn: Youcef Jebahi
+Email: jebahiyoucef@gmail.com
+Let's connect and create something awesome together!
