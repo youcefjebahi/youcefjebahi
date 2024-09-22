@@ -1,9 +1,11 @@
-👋 Hi there, I'm Youcef Jebahi, a passionate software engineer open to exciting collaborations.
+👋 Hi there, I'm Youcef Jebahi, a passionate software engineer.
 
-Currently, I'm immersed in personal projects and handling freelance client work.
+I’m currently developing a web application using Gin (Golang) and React as a personal project, and I'm always open to exciting collaborations in software development.
 
-📫 You can reach out to me through:
+💼 Technical Skills: Golang, Java, PHP, C#, Python, JavaScript, TypeScript
 
-LinkedIn: Youcef Jebahi
+📫 Let’s connect:
+
+LinkedIn : linkedin.com/in/youcefjebahi
 Email: jebahiyoucef@gmail.com
-Let's connect and create something awesome together!
+Let’s create something awesome together! 🚀
